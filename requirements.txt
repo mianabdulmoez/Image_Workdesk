@@ -1,0 +1,5 @@
+numpy
+Pillow
+rembg
+streamlit
+streamlit_cropper
